@@ -1,0 +1,6 @@
+{
+  "name": "TailAdmin Analytics Dashboard",
+  "description": "Voyage IS - Maritime fleet operations system featuring Authentication & Password Recovery for Superadmin, Port Users, and Stakeholders, Logged-in User Profile (My Profile) with detailed maritime credentials, STCW licensures, permissions matrix, session security, and digital port pass, Uganda Water Bodies & Maritime Hydrographic Map, Maritime Operations & Analytics Dashboard, Manifest Manager (Passengers SMS self check-in shortcode 8199 & Cargo manifests with IMO FAL standards), System Settings, Staff Directory, User Management, Voyage Departure & Landing tracking, Incidents & Safety Management, and Water Body & Ports management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
